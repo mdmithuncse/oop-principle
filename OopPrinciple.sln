@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "encapsulation", "encapsulation", "{87AD3292-C1FC-46CF-A228-70BDDB590C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPrinciple.Encapsulation", "encapsulation\OopPrinciple.Encapsulation\OopPrinciple.Encapsulation.csproj", "{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287} = {87AD3292-C1FC-46CF-A228-70BDDB590C25}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979DD6FA-5E73-4702-BD03-DCF1F0FC913E}
+	EndGlobalSection
+EndGlobal
