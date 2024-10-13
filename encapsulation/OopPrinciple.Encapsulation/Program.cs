@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using OopPrinciple.Encapsulation;
 
-Console.WriteLine("Hello, This is an example of encapsulation implement.");
+Console.WriteLine("Hello, This is an example of encapsulation concept.");
 
 BankAccount bankAccount = new BankAccount("2111856932449", "Alice", 10000);
 

@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "inheritence", "inheritence"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPrinciple.Inheritence", "inheritence\OopPrinciple.Inheritence\OopPrinciple.Inheritence.csproj", "{43B563AA-4181-4BD6-93CF-BFAD38CBBB15}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstraction", "abstraction", "{3E0C6D15-7DAF-416A-84A8-D88C3B16BA47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPrinciple.Abstraction", "abstraction\OopPrinciple.Abstraction\OopPrinciple.Abstraction.csproj", "{5D584AA2-4FB5-42A2-9184-2771C375095A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,12 +29,18 @@ Global
 		{43B563AA-4181-4BD6-93CF-BFAD38CBBB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43B563AA-4181-4BD6-93CF-BFAD38CBBB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43B563AA-4181-4BD6-93CF-BFAD38CBBB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287} = {87AD3292-C1FC-46CF-A228-70BDDB590C25}
+		{43B563AA-4181-4BD6-93CF-BFAD38CBBB15} = {A614F1C2-6DB8-4194-851F-06D98DBC1181}
+		{5D584AA2-4FB5-42A2-9184-2771C375095A} = {3E0C6D15-7DAF-416A-84A8-D88C3B16BA47}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {979DD6FA-5E73-4702-BD03-DCF1F0FC913E}

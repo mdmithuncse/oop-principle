@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using OopPrinciple.Inheritence;
 
-Console.WriteLine("Hello, This is an example of inheritence implement.");
+Console.WriteLine("Hello, This is an example of inheritence concept.");
 
 Apple apple = new Apple
 {
