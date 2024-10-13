@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstraction", "abstraction"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPrinciple.Abstraction", "abstraction\OopPrinciple.Abstraction\OopPrinciple.Abstraction.csproj", "{5D584AA2-4FB5-42A2-9184-2771C375095A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "polymorphism", "polymorphism", "{EE4EEA22-7562-4C19-9490-8FB261D73FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPrinciple.RunTimePolymorphism", "polymorphism\OopPrinciple.Polymorphism\OopPrinciple.RunTimePolymorphism.csproj", "{9455DE4C-490C-4D53-A20E-11AA5C0296DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D584AA2-4FB5-42A2-9184-2771C375095A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9455DE4C-490C-4D53-A20E-11AA5C0296DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9455DE4C-490C-4D53-A20E-11AA5C0296DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9455DE4C-490C-4D53-A20E-11AA5C0296DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9455DE4C-490C-4D53-A20E-11AA5C0296DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{47899F6E-CD88-4DBA-87F7-8DFBA4DD5287} = {87AD3292-C1FC-46CF-A228-70BDDB590C25}
 		{43B563AA-4181-4BD6-93CF-BFAD38CBBB15} = {A614F1C2-6DB8-4194-851F-06D98DBC1181}
 		{5D584AA2-4FB5-42A2-9184-2771C375095A} = {3E0C6D15-7DAF-416A-84A8-D88C3B16BA47}
+		{9455DE4C-490C-4D53-A20E-11AA5C0296DB} = {EE4EEA22-7562-4C19-9490-8FB261D73FEF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {979DD6FA-5E73-4702-BD03-DCF1F0FC913E}
