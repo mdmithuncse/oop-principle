@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using OopPrinciple.RunTimePolymorphism;
 
-Console.WriteLine("Hello, This is an example of polymorphism concept.");
+Console.WriteLine("Hello, This is an example of run-time polymorphism concept.");
 
 IAnimal[] animals = { new Dog(), new Cat() };
 
